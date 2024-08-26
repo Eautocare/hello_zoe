@@ -1,0 +1,7 @@
+'''prompt the user for password
+store it
+display the password in asterisk'''
+
+int ("Enter the password: ")
+password = (*)
+print(int)

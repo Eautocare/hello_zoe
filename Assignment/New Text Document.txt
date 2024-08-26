@@ -1,0 +1,7 @@
+"""prompt the user to the amount he wants to borrow
+store it
+prompt the user for interest rate
+store it
+prompt the user the number of years
+store it
+calculate the monthly payment with the formula given"""
